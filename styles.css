@@ -1,0 +1,41 @@
+body {
+    background-color: #66BFBF;
+  }
+
+  hr {
+    background-color: #66BFBF;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 100%
+
+    height: 250px;
+  }
+
+ 
+  h3 {
+
+  color:#F9DFDC; }
+
+
+  h2 {
+    color: red;
+  }
+/*******************Class Selectors********************/
+
+img { 
+
+    background-color: pink;
+  border-radius: 100%
+  }
+  h1{
+    color: pink;font-size: 100px;
+
+
+
+}
+/*******************ID Selectors********************/
+#heading{
+  color:pink
+}
